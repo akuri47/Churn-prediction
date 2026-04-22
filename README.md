@@ -1,2 +1,2 @@
-# Churn-predication
-churn_prediction
+# Churn_prediction
+
